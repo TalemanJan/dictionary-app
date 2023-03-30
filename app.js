@@ -8,6 +8,7 @@ const dictionary = {
   
   // Checks if input matches any word in the dictionary
   function checkinp(){
- 
+  const userInput = document.getElementById("search").value;
+
   }
   
