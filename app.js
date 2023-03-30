@@ -12,7 +12,7 @@ const dictionary = {
   if (dictionary.hasOwnProperty(userInput)) {
     document.getElementById('p').innerHTML=`Definition of ${userInput}: ${dictionary[userInput]}`;
   } else {
-    document.getElementById('p').innerHTML='Not found';
+    document.getElementById('p').innerHTML='Word Not found';
   }
   }
   
