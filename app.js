@@ -9,6 +9,10 @@ const dictionary = {
   // Checks if input matches any word in the dictionary
   function checkinp(){
   const userInput = document.getElementById("search").value;
-
+  if (dictionary.hasOwnProperty(userInput)) {
+    document.getElementById('p').innerHTML=`Definition of ${userInput}: ${dictionary[userInput]}`;
+  } else {
+    document.getElementById('p').innerHTML='Not found';
+  }
   }
   
