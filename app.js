@@ -8,7 +8,7 @@ now:"at the present time or moment.",
 aardvark:"a nocturnal badger-sized burrowing mammal of Africa",
 abandon:"to leave somebody",
 hat:"a shaped covering for the head worn for warmth,",
-mat:"",
+mat:"a piece of coarse material placed on a floor for people to wipe their feet on.",
   };
   
   
