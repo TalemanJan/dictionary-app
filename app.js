@@ -6,7 +6,9 @@ const dictionary = {
 word:"a command, password, or signal.",
 now:"at the present time or moment.",
 aardvark:"a nocturnal badger-sized burrowing mammal of Africa",
-abandon:"to leave somebody"
+abandon:"to leave somebody",
+hat:"a shaped covering for the head worn for warmth,",
+mat:"",
   };
   
   
