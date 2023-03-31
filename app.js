@@ -4,7 +4,9 @@ const dictionary = {
     world: 'the earth, together with all of its countries, peoples, and natural features',
     javascript: 'a high-level programming language used to create interactive effects within web browsers',
 word:"a command, password, or signal.",
-now:"at the present time or moment."
+now:"at the present time or moment.",
+aardvark:"a nocturnal badger-sized burrowing mammal of Africa",
+abandon:"to leave somebody"
   };
   
   
