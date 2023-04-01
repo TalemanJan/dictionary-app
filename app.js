@@ -9,6 +9,7 @@ aardvark:"a nocturnal badger-sized burrowing mammal of Africa",
 abandon:"to leave somebody",
 hat:"a shaped covering for the head worn for warmth,",
 mat:"a piece of coarse material placed on a floor for people to wipe their feet on.",
+cat:"a land animal"
   };
   
   
@@ -23,4 +24,4 @@ mat:"a piece of coarse material placed on a floor for people to wipe their feet 
   }
   
 
-  
+
